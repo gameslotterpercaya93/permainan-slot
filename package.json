@@ -1,0 +1,18 @@
+{
+  "name": "permainan-slot",
+  "main": "./lib/permainan-slot",
+  "version": "1.0.0",
+  "description": "Kode Rahasia Info Akurat Permainan Slot Penghasil Uang",
+  "keywords": ["slot spade gaming","agen slot terbaik","slot terbaik","toptrend gaming","slot pg soft","slot pg soft","bandar slot","spade gaming","pragmatic play"],
+
+  "activationCommands": {
+    "atom-workspace": "permainan-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya93/permainan-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

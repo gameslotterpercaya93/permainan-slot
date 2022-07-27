@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle permainan-slot",
+        "command": "permainan-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "permainan-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "permainan-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
